@@ -1,9 +1,9 @@
 #!/bin/bash
-AUTHOR='Bruno Gomez-Gil' # Laboratorio de Genomica Microbiana, CIAD. https://github.com/GenomicaMicrob
+AUTHOR='Bruno Gomez-Gil' # Laboratorio de Genomica Microbiana, CIAD.
 NAME='coverage_calculator'
 REV='Sept. 03, 2018'
 VER='v0.0.1'
-LINK=''
+LINK='https://github.com/GenomicaMicrob/coverage_calculator'
 DEP='None'
 
 display_help(){
